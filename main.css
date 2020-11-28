@@ -1,0 +1,24 @@
+button{
+    background-color: #64b6ac !important;
+    border-color: #64b6ac !important;
+    padding: 15px 35px;
+    color: white !important;
+    font-size: 20px !important;
+    cursor: pointer !important;
+}
+.row{
+    background-color: rgb(165, 134, 88);
+    height: 100vh;
+    margin: auto !important;
+}
+.col-11{
+    background-color: rgb(255, 237, 211);
+}
+button:hover{
+    color: black !important;
+    background-color: rgb(165, 134, 88) !important;
+    border-color: rgb(165, 134, 88) !important;
+}
+.quote-author{
+    color: #64b6ac !important;
+}
